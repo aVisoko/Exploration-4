@@ -31,4 +31,28 @@ Full Featured: Twig supports everything you need to build powerful templates wit
     Content of the page...
       {% endblock %}
    
+## Job Posting
+
+Veterans United is seeking a Web Developer in our Marketing department to build websites, use web analytics and work closely with the Creative team. This position will not be originating loans.
+
+Responsibilities:
+Build interactive websites using Javascript, PHP, Twig, and MySQL.
+Act as a technical resource for the creative marketing team.
+Use regular expressions to help manage our multivariate testing systems(a/b testing).
+Utilize and implement various web analytics tools to provide useful statistics and insights into how our websites work.
+Pair with designers and other developers to learn and grow.
+Necessary Skills:
+Excellent troubleshooting capabilities.
+Aptitude to learn new technology.
+Strong interpersonal communication skills (written and verbal).
+Excel in fast-paced, results-oriented environment.
+Job Requirements:
+3+ years of experience in web development or similar software development roles.
+Proficient in jQuery or other javascript framework.
+Proficient in PHP.
+Familiarity with LAMP stack.
+Experience with Jenkins, Perforce, Git, and other version control, continuous integration and delivery tools.
+Veterans United is proud to be an EOE/ADA and Military Friendly employer 
+
+To apply to this job, click Apply Now
 
