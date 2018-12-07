@@ -4,7 +4,7 @@
 
 Concise: The PHP language is verbose and becomes ridiculously verbose when it comes to output escaping:
 
-      <?php echo $var ?>
-      <?php echo htmlspecialchars($var, ENT_QUOTES, 'UTF-8') ?>
+      `<?php echo $var ?>
+      <?php echo htmlspecialchars($var, ENT_QUOTES, 'UTF-8') ?>`
    
 
